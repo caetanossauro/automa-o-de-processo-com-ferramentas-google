@@ -22,9 +22,9 @@ Ideal para empresas e indivíduos que buscam reduzir o trabalho manual, minimiza
 * **GmailApp (Apps Script):** Para o envio automatizado de e-mails com anexos.
 
 # Links
-* **Link para o formulário: [Formulário](https://forms.gle/iyctvgqerF5QLVrZ7)
-* **Link para a pasta raiz do projeto: [Pasta raiz](https://drive.google.com/drive/folders/1inxtBA4BMcsfqfC8cA_9tLFc2X0IhSO-?usp=drive_link)
-* **Link para acessar o código: [Código JavaScript](https://github.com/caetanossauro/automa-o-de-processo-com-ferramentas-google/blob/main/code.gs)
+* *Link para o formulário: [Formulário](https://forms.gle/iyctvgqerF5QLVrZ7)
+* *Link para a pasta raiz do projeto: [Pasta raiz](https://drive.google.com/drive/folders/1inxtBA4BMcsfqfC8cA_9tLFc2X0IhSO-?usp=drive_link)
+* *Link para acessar o código: [Código JavaScript](https://github.com/caetanossauro/automa-o-de-processo-com-ferramentas-google/blob/main/code.gs)
 
 # Contato
 
