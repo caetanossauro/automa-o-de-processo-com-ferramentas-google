@@ -4,6 +4,16 @@ Este repositório contém um projeto de automação desenvolvido com Google Apps
 
 Ideal para empresas e indivíduos que buscam reduzir o trabalho manual, minimizar erros e otimizar a gestão de documentos.
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Automação de Geração de Documentos com Google Forms e Apps Script**
+| :label: Tecnologias | javascript
+| :rocket: Artigo LinkedIn         | https://www.linkedin.com/pulse/automatizando-processos-como-google-forms-apps-script-oliveira-akwjf/?trackingId=nmJqP%2BIuRrKNB2PwHboB%2BQ%3D%3D
+| :fire: Repositório     | https://github.com/caetanossauro/automa-o-de-processo-com-ferramentas-google
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://media.licdn.com/dms/image/v2/D4D12AQFGGnBXO95wlw/article-cover_image-shrink_720_1280/B4DZfbOsizGUAI-/0/1751729753636?e=1758758400&v=beta&t=Xifx66wefC1eZPHJIfewFDp4B_zYtaZdhaYfiOvphZA#vitrinedev)
+
 # A automação segue um fluxo simples e eficiente:
 
 1.  **Preenchimento do Formulário:** Um usuário preenche um formulário no Google Forms.
